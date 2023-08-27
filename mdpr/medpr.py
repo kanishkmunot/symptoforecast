@@ -252,3 +252,11 @@ if (selected == "Parkinsons Prediction"):
     st.success(parkinsons_diagnosis)
 
 
+
+
+
+
+
+
+
+
