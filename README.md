@@ -4,29 +4,8 @@ SymptoForecast is a Streamlit web application designed to provide disease predic
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Challenges Faced](#challenges-faced)
 - [Available Features](#available-features)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
-
-To run the SymptoForecast application locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kanishkmunot/symptoforecast.git
-   cd symptoforecast
-
---> pip install -r requirements.txt
-
---> streamlit run app.py
-
-The SymptoForecast application is designed with a user-friendly interface for predicting different diseases based on symptom inputs. Here's how to use the application:
-
-Upon launching the application, you will be presented with a sidebar containing navigation options.
 
 
 CHALLENGES FACED:
