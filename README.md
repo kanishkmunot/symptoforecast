@@ -26,3 +26,5 @@ Diabetes Prediction: Predicts the likelihood of having diabetes based on input f
 Heart Disease Prediction: Predicts the likelihood of having heart disease based on input features like age, sex, chest pain types, and various medical measurements.
 
 Parkinson's Prediction: Predicts the likelihood of having Parkinson's disease based on input features including vocal frequency and other medical measurements.
+
+**WE ARE YET TO DEPLOY THIS MACHINE LEARNING WEB APPLICATION.**
